@@ -57,4 +57,7 @@ Feel free to learn from it, reference it, or build upon it!
 If you'd like to collaborate, hire, or discuss prompt engineering systems,  
 feel free to connect!
 
-*(You can add your LinkedIn, Email, or Portfolio links here later.)*
+## 👋 Contact
+
+📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/darrylrachel/)
+
