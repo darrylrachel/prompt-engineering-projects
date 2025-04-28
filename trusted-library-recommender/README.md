@@ -131,3 +131,8 @@ Manual QA Testing
 **Notes**
 This project demonstrates real-world production-level Prompt Engineering skills.
 Hallucination mitigation, Chain-of-Thought prompting, User-Centric Dialogue Design, and Modular System Thinking were all applied.
+
+---
+
+[⬅️ Back to Main Portfolio](../README.md)
+
