@@ -57,5 +57,5 @@ Feel free to learn from it, reference it, or build upon it!
 If you'd like to collaborate, hire, or discuss prompt engineering systems,  
 feel free to connect!
 
-📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/darrylrachel/)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darrylrachel/)
 
