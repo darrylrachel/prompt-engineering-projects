@@ -69,7 +69,8 @@ Test Input:
 
 #### 📷 Screenshot 1: First Test Output (before patching)
 
-![First Test Output](./screenshot-1-first-test.png)
+![Screenshot 1 - Initial Output: Incorrect fallback triggered after correct recommendations](./screenshot-1-first-test.png)
+
 
 ---
 
@@ -88,7 +89,7 @@ Test Input:
 
 #### 📷 Screenshot 2: Final Correct Output (after patching)
 
-![Final Correct Output](./screenshot-2-final-test.png)
+![Screenshot 2 - Final Correct Output: Clean recommendations, no fallback triggered](./screenshot-2-final-test.png)
 
 **Example of Correct Final Output:**
 
@@ -131,3 +132,8 @@ Manual QA Testing
 **Notes**
 This project demonstrates real-world production-level Prompt Engineering skills.
 Hallucination mitigation, Chain-of-Thought prompting, User-Centric Dialogue Design, and Modular System Thinking were all applied.
+
+---
+
+[⬅️ Back to Main Portfolio](../README.md)
+
